@@ -1,0 +1,14 @@
+{
+  "build": "20261008T082309Z",
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "Build/WebGL.data.unityweb": "db8348c660cfcb2e965678a217db9d9457590b25c6ae3e635d960d576bc8bc5e",
+    "Build/WebGL.framework.js.unityweb": "d84903c7fa1e89beb71b071b9a37bc7954f34e33c78d1edb1bae2938da91a77d",
+    "Build/WebGL.loader.js": "f4f6eac7a325efbd3e0a1733f2b99554511b70675a6b160300b2c3c5191b0057",
+    "Build/WebGL.wasm.unityweb": "53a3b3c3b8cded036e6c999cef14121655d8cb250c009404e61bee4e49d21aad",
+    "index.html": "16b4aabb28242925336e7576b87357d39f40a8c0b546bcbe5388a908d3223013",
+    "StreamingAssets/UnityServicesProjectConfiguration.json": "fcd38ffa37b2a448be41ee9a396a435f8be8e952b4b11b9b60e2962e76c7d352",
+    "TemplateData/kingdom-atlas.png": "33851e8db4e09a077c765584d967702ef347bb2be5728c98e1c14527791493bc",
+    "TemplateData/style.css": "67d31717a62255db9177700f7513e6c280b8d4913c0cfce5063a1dc5fe3532a0"
+  }
+}
